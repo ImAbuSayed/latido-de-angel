@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latido-de-angel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Latido de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-de-angel/) |
+| **Get License** | [Secure Licensing Rights for Latido de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-de-angel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Latidos a cien por hora, baby, tú me tienes mal
+> Una mirada tuya y pierdo mi centro de gravedad
+> En la noche de Madrid, tú eres mi luz de neón
+> Acércate un poquito, que yo pierdo la razón
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
